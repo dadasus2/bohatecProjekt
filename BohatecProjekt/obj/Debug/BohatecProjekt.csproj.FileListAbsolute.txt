@@ -1,0 +1,15 @@
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.AdminForm.resources
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.Login.resources
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.Properties.Resources.resources
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\bin\Debug\BohatecProjekt.exe.config
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\bin\Debug\BohatecProjekt.exe
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\bin\Debug\BohatecProjekt.pdb
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.exe
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.pdb
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.AddUser.resources
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.AddEmployee.resources
+C:\Users\pc\Source\Repos\bohatecProjekt\BohatecProjekt\obj\Debug\BohatecProjekt.UserForm.resources

@@ -57,6 +57,7 @@
             // 
             this.textBoxPassword.Location = new System.Drawing.Point(259, 207);
             this.textBoxPassword.Name = "textBoxPassword";
+            this.textBoxPassword.PasswordChar = '*';
             this.textBoxPassword.Size = new System.Drawing.Size(200, 20);
             this.textBoxPassword.TabIndex = 2;
             // 
@@ -86,6 +87,7 @@
             this.buttonSubmit.TabIndex = 5;
             this.buttonSubmit.Text = "login";
             this.buttonSubmit.UseVisualStyleBackColor = true;
+            this.buttonSubmit.Click += new System.EventHandler(this.buttonSubmit_Click);
             // 
             // Login
             // 

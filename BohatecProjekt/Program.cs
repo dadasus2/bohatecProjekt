@@ -16,7 +16,7 @@ namespace BohatecProjekt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new registrace());
+            Application.Run(new Login());
         }
     }
 }
